@@ -6,24 +6,24 @@ my journey to learning python
 
 This repository is where I'm documenting my progress as I learn Python, GitHub, and Power Platform development and throw in some zsh/bash.
 
-## 🐍 Python
+## Python
 
 I'm currently learning Python through hands-on practice.
 
-- ✅ [x] Hello World
-- 📚 [ ] Variables, Data Types
-- 🔁 [ ] Loops & Functions
-- 🧪 [ ] Small Projects
+- [x] Hello World
+- [ ] Variables, Data Types
+- [ ] Loops & Functions
+- [ ] Small Projects
 
-## ⚙️ Power Platform
+##  Power Platform
 
 I'm actively learning and applying Power Platform tools, especially in a work setting.
 
-- ✅ Built apps using Power Apps and SharePoint integration
-- 🔁 Automating office processes with Power Automate
-- 🧩 Troubleshooting Patch functions and lookup relationships
-- ✍️ Building custom galleries and filters for internal tools
-- 🚧 Exploring Power BI and model-driven apps (planned)
+- Built apps using Power Apps and SharePoint integration
+- Automating office processes with Power Automate
+- Troubleshooting Patch functions and lookup relationships
+-  Building custom galleries and filters for internal tools
+- Exploring Power BI and model-driven apps (planned)
 
 ## 📁 What’s in this repo
 
@@ -39,4 +39,5 @@ I'm actively learning and applying Power Platform tools, especially in a work se
 
 ---
 
-> *“The first step is easy.... the 1 millionth takes commitment and determination"
+> "Beginning a journey is filled with exciting motivation and energy; it's when the road begins its ascent, the weather darkens, and the days long, when determination and pure grit become the tenets on which to rely."
+> -  Dennis Breitwieser-Cutshall
