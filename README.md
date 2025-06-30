@@ -10,28 +10,28 @@ This repository is where I'm documenting my progress as I learn Python, GitHub, 
 
 I'm currently learning Python through hands-on practice.
 
-- ✅ [x] Hello World
-- 📚 [ ] Variables, Data Types
-- 🔁 [ ] Loops & Functions
-- 🧪 [ ] Small Projects
+-  [x] Hello World
+-  [ ] Variables, Data Types
+-  [ ] Loops & Functions
+-  [ ] Small Projects
 
-## ⚙️ Power Platform
+##  Power Platform
 
 I'm actively learning and applying Power Platform tools, especially in a work setting.
 
-- ✅ Built apps using Power Apps and SharePoint integration
-- 🔁 Automating office processes with Power Automate
-- 🧩 Troubleshooting Patch functions and lookup relationships
-- ✍️ Building custom galleries and filters for internal tools
-- 🚧 Exploring Power BI and model-driven apps (planned)
+-  Built apps using Power Apps and SharePoint integration
+-  Automating office processes with Power Automate
+-  Troubleshooting Patch functions and lookup relationships
+-  Building custom galleries and filters for internal tools
+-  Exploring Power BI and model-driven apps (planned)
 
-## 📁 What’s in this repo
+##  What’s in this repo
 
 - `hello.py`: My first Python script
 - `notes/`: Where I’m keeping personal learning notes (optional)
 - `.gitignore`: Hides system/secret files from public view
 
-## 🛠️ Future Plans
+##  Future Plans
 
 - Start building small, real-world Python scripts
 - Add more Power Apps project documentation
