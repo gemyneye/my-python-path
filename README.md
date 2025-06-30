@@ -11,9 +11,9 @@ This repository is where I'm documenting my progress as I learn Python, GitHub, 
 I'm currently learning Python through hands-on practice.
 
 -  [x] Hello World
--  [ ] Variables, Data Types
--  [ ] Loops & Functions
--  [ ] Small Projects
+-  [x] Variables, Data Types
+-  [x] Loops & Functions
+-  [x] Small Projects
 
 ##  Power Platform
 
@@ -37,6 +37,9 @@ I'm actively learning and applying Power Platform tools, especially in a work se
 - Add more Power Apps project documentation
 - Learn GitHub workflows (committing, pushing, cloning)
 
+## Current status
+- Actually also started Full Stack and have restarted HTML and 
+- am on intermediate HTML with the new Full Stack on freeCodeCamp. 
 ---
 
 > *“The first step is easy.... the 1 millionth takes commitment and determination”*
