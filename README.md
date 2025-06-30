@@ -6,7 +6,7 @@ my journey to learning python
 
 This repository is where I'm documenting my progress as I learn Python, GitHub, and Power Platform development and throw in some zsh/bash.
 
-## 🐍 Python
+## Python
 
 I'm currently learning Python through hands-on practice.
 
