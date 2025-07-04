@@ -1,4 +1,4 @@
-# my-python-path
+# My Python Journey
 my journey to learning python
 # My Developer Learning Journey
 
@@ -28,7 +28,7 @@ I'm actively learning and applying Power Platform tools, especially in a work se
 ##  What’s in this repo
 
 - `hello.py`: My first Python script
-- `notes/`: Where I’m keeping personal learning notes (optional)
+- `notes/`: Where I’m keeping personal learning notes
 - `.gitignore`: Hides system/secret files from public view
 
 ##  Future Plans
@@ -40,7 +40,8 @@ I'm actively learning and applying Power Platform tools, especially in a work se
 ## Current status
 - Actually also started Full Stack and have restarted HTML and 
 - am on intermediate HTML with the new Full Stack on freeCodeCamp. 
----
+- Also continuing Python by working with lists, dicts, sets, tuples and looping through them.
+- Added use of list comprehensions (those are fun!)
 
 > *“The first step is easy.... the 1 millionth takes commitment and determination”*
 
